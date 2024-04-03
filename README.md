@@ -7,6 +7,7 @@ Roll_no=10
 The java project are
 
 1.Convert Nepali currency into other currency
+       
         this is a simple java project of converting the Nepali rpuees into other country currency i have choosen 5 major city where nepali people go for working labour which are as follow:-
         1.United state
         2.United Arab emirates
@@ -22,6 +23,7 @@ The java project are
 
 
 2.Calculator
+    
       This program is just a simple calculator program where i have done 
       1.Additiom
       2.Subtraction
