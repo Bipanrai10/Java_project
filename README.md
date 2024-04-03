@@ -28,6 +28,9 @@ The java project are
         4.China
         5.Saudi
 
+      i have use float(double) for output because we need decimal value too.
+      And System.out.printf is used for output based on a format specifier.
+
       ALl the exchange rate of resource is research  through=https://www.xe.com/
 
       and i have also converted other currency into nepali of the same above 5 major country.
