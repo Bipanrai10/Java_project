@@ -19,7 +19,8 @@ The java project are
 
 2.Convert Nepali currency into other currency and other currency into nepali
        
-        this is a simple java project of converting the Nepali rupees into other country currency i have choosen 5 major city where nepali people go for working labour which are as follow:-
+        this is a simple java project of converting the Nepali rupees into other country currency.
+        i have choosen 5 major city where nepali people go for working labour which are as follow:-
         1.United state
         2.United Arab emirates
         3.Japan
