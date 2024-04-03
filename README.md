@@ -15,7 +15,8 @@ The java project are
       4.Multiplication
       5.Modulus
 
-      with switch statement.
+      with switch statement and i have use float(double) for output and input because we need decimal value too.
+      And System.out.printf is used for output based on a format specifier.
 
 2.Convert Nepali currency into other currency and other currency into nepali
        
