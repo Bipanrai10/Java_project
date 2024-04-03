@@ -27,8 +27,8 @@ The java project are
         4.China
         5.Saudi
 
-      ALl the exchange rate of resource is collected trough=https://www.xe.com/
+      ALl the exchange rate of resource is research  through=https://www.xe.com/
 
       and i have also converted other currency into nepali of the same above 5 major country.
 
-      ALl the exchange rate of resource is collected trough=https://www.xe.com/
+      ALl the exchange rate of resource is research through=https://www.xe.com/
